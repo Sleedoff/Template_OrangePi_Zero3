@@ -1,0 +1,3 @@
+[submodule "Periphery_OrangePi_Zero3"]
+	path = Periphery_OrangePi_Zero3
+	url = git@github.com:Sleedoff/Periphery_OrangePi_Zero3.git
